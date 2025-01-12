@@ -1,6 +1,9 @@
-<h1>Hi 👋, I'm Marco</h1>
-<p>A passionate full-stack developer from Bohol, Philippines, pursuing a BSCS at Bohol Island State University. Passionate about creating seamless web applications with JavaScript, React, Vue.js, Node.js, and Laravel. Always eager to learn and collaborate on exciting projects!</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# 👋 Hi, I'm Marco!
+
+A passionate full-stack developer from **Bohol, Philippines** 🎉, currently pursuing a **BSCS** at **Bohol Island State University**. I thrive on building seamless, efficient web applications with **JavaScript**, **React**, **Vue.js**, **Node.js**, and **Laravel**. I’m always excited to learn new technologies and collaborate on innovative projects.
+
+## 🚀 Technologies & Tools I Use
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -36,13 +39,50 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/mercadomarco240" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/marco-mercado-6381b7180" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/mercad0marc022" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/mercad0marc0" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/22759423" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mercadomarco&show_icons=true&locale=en" alt="mercadomarco" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mercadomarco&" alt="mercadomarco" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mercadomarco&show_icons=true&locale=en&layout=compact" alt="mercadomarco" /></p>
+
+## 📊 My GitHub Stats
+
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mercadomarco&show_icons=true&locale=en)
+
+## 🔥 GitHub Streak
+
+![Marco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mercadomarco&)
+
+## 🏆 Top Languages
+
+![Marco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mercadomarco&show_icons=true&locale=en&layout=compact)
+
+## 🌱 Currently Learning
+
+- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn
+- **Mobile Development**: Flutter, Kotlin
+- **Game Development**: Unity, Unreal Engine
+- **DevOps**: Docker, Kubernetes, Terraform
+
+## 🔗 Find Me Around the Web
+
+<p align="center">
+  <a href="https://twitter.com/mercadomarco240"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/marco-mercado-6381b7180"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/mercad0marc022"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mercad0marc0"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" /></a>
+  <a href="https://stackoverflow.com/users/22759423"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="StackOverflow" /></a>
+</p>
+
+## 📧 Contact Me
+
+- **Email**: [mercadomarco240@gmail.com](mailto:mercadomarco240@gmail.com)
+
+## 🏅 My Recent Projects
+
+- **E-commerce Platform**: A Laravel-based e-commerce project where I integrated **Stripe** payments, user roles, product inventory, and order management.
+- **Geofencing System**: I developed a GPS-based tracking system using **NodeMCU ESP8266** for monitoring livestock with real-time geofence control.
+- **AI Chatbot**: Created an AI chatbot using **TensorFlow** for real-time customer support.
+
+## 👨‍💻 Let's Collaborate!
+
+I’m always open to collaborating on open-source projects, learning new technologies, and working with like-minded people. If you have an interesting project in mind, feel free to reach out!
+
+---
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mercadomarco" alt="mercadomarco" /></a></p>
