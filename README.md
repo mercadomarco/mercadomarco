@@ -75,8 +75,8 @@ A passionate full-stack developer from **Bohol, Philippines** 🎉, currently pu
 
 ## 🏅 My Recent Projects
 
-- **E-commerce Platform**: A Laravel-based e-commerce project where I integrated **Stripe** payments, user roles, product inventory, and order management.
-- **Geofencing System**: I developed a GPS-based tracking system using **NodeMCU ESP8266** for monitoring livestock with real-time geofence control.
+- **One PLace Computer (OPC)**: A Laravel-based e-commerce project where I integrated **Stripe** payments, user roles, product inventory, and order management.
+- **CowLar**: I developed a GPS-based tracking system using **NodeMCU ESP8266** for monitoring livestock with real-time geofence control.
 - **AI Chatbot**: Created an AI chatbot using **TensorFlow** for real-time customer support.
 
 ## 👨‍💻 Let's Collaborate!
