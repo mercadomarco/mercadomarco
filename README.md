@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco!
 
-A passionate full-stack developer from **Bohol, Philippines** 🎉, currently pursuing a **BSCS** at **Bohol Island State University**. I thrive on building seamless, efficient web applications with **JavaScript**, **React**, **Vue.js**, **Node.js**, and **Laravel**. I’m always excited to learn new technologies and collaborate on innovative projects.
+A passionate backend developer from **Bohol, Philippines** 🎉, currently pursuing a **BSCS** at **Bohol Island State University**. I thrive on building seamless, efficient web applications with **JavaScript**, **React**, **Vue.js**, **Node.js**, and **Laravel**. I’m always excited to learn new technologies and collaborate on innovative projects.
 
 ## 🚀 Technologies & Tools I Use
 
