@@ -71,7 +71,7 @@ A passionate backend developer from **Bohol, Philippines** 🎉, currently pursu
 
 ## 📧 Contact Me
 
-- **Email**: [mercadomarco240@gmail.com](mailto:mercadomarco240@gmail.com)
+- **Email**: [mercadomarco240@gmail.com](mailto:mercadomarco2820@gmail.com)
 
 ## 🏅 My Recent Projects
 
