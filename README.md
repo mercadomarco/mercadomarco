@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Backend developer from **Bohol, Philippines** currently pursuing a **BSCS** at **Bohol Island State University**. I build efficient web applications with modern technologies and am constantly exploring new skills.
+Backend developer from **Bohol, Philippines** currently pursuing a **BSCS** at **Bohol Island State University**. I build web and mobile applications with modern technologies and am constantly exploring new skills.
 
 <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -55,6 +55,7 @@ Backend developer from **Bohol, Philippines** currently pursuing a **BSCS** at *
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| **BHRS Mobile App** | Mobile application for business management and customer engagement | ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23.svg?style=for-the-badge&logo=expo&logoColor=white) |
 | **One PLace Computer (OPC)** | E-commerce platform with integrated payments, user roles, inventory, and order management | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white) |
 | **CowLar** | GPS-based livestock tracking system with real-time geofence control | ![NodeMCU](https://img.shields.io/badge/NodeMCU-ESP8266-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-%23010101.svg?style=for-the-badge&logo=iot&logoColor=white) |
 | **AI Chatbot** | Real-time customer support chatbot | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
