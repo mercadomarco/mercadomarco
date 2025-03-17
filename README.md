@@ -16,7 +16,9 @@
 
 Backend developer from **Bohol, Philippines** currently pursuing a **BSCS** at **Bohol Island State University**. I build efficient web applications with modern technologies and am constantly exploring new skills.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</p>
 
 <details>
 <summary>📊 GitHub Stats</summary>
