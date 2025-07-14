@@ -8,6 +8,16 @@
 [![Email](https://img.shields.io/badge/Email-mercadomarco282%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:mercadomarco282@gmail.com)
 
 <div align="center">
+
+## 🌐 Portfolio
+
+<a href="https://my-protfolio-u7yc.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link"/>
+</a>
+
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mercadomarco&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/mercadomarco?label=Followers&style=flat-square" alt="followers"/>
 </div>
