@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3584E4&center=false&vCenter=true&width=435&lines=Hey+there!+I'm+Marco;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3584E4&center=false&vCenter=true&width=435&lines=Hey+there!+I'm+Marco;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mercadomarco240)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-mercado-6381b7180)
